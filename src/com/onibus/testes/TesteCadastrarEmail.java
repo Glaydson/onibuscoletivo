@@ -2,15 +2,12 @@ package com.onibus.testes;
 
 import static org.junit.Assert.*;
 
-import java.util.List;
-
 import org.junit.Before;
 import org.junit.Test;
 
 import com.onibus.negocio.cidades.Cidade;
 import com.onibus.negocio.usuarios.ControleUsuarios;
 import com.onibus.negocio.usuarios.Usuario;
-import com.sun.net.httpserver.Authenticator.Success;
 
 public class TesteCadastrarEmail {
 
