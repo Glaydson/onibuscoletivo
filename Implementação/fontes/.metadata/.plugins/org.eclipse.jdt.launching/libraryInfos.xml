@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\HP\LoadRunner" version="1.5.0_06">
+<bootpath>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\i18n.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\HP\LoadRunner\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\HP\LoadRunner\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jdk1.7.0_05\jre" version="1.7.0_05">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\IBM\WFO\application_connection\java32" version="1.5.0">
+<bootpath>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\vm.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\core.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\charsets.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\graphics.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\security.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmorb.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmcfw.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\server.jar"/>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\IBM\WFO\application_connection\java32\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\IBM\WebSphere\AST\eclipse" version="1.5.0">
+<bootpath>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\vm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\core.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\graphics.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\security.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmorb.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmcfw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\server.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\IBM\WebSphere\AST\eclipse\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse" version="1.5.0">
+<bootpath>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\vm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\core.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\graphics.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\security.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmorb.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmcfw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\server.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\IBM\WebSphere\AST\updater\workspace\proxies\eclipse\features\updater.ast.jre.15sr6.win32_1.0.0\backup\eclipse\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\IBM\WFO2\devkit\java32" version="1.5.0">
+<bootpath>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\vm.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\core.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\charsets.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\graphics.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\security.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmorb.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmcfw.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\server.jar"/>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\IBM\WFO2\devkit\java32\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\PaperCut\Win\runtime" version="1.6.0_23">
+<bootpath>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\resources.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\rt.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\sunrsasign.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\jsse.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\jce.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\charsets.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\PaperCut\Win\runtime\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\PaperCut\Win\runtime\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\astah-community" version="1.6.0_24">
+<bootpath>
+<entry path="C:\Program Files\astah-community\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\astah-community\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\astah-community\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\astah-community\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\astah-community\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre6" version="1.6.0_43">
+<bootpath>
+<entry path="C:\Program Files\Java\jre6\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\Java\jre6\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre6\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre6\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\IBM\WFO\devkit\java32" version="1.5.0">
+<bootpath>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\vm.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\core.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\charsets.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\graphics.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\security.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmorb.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmcfw.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\server.jar"/>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\IBM\WFO\devkit\java32\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\IBM\WebSphere\AST\uninstall\java" version="1.4.2">
+<bootpath>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\core.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\graphics.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\security.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\server.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\xml.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjssefips.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmjsseprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmorb.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ibmpkcs.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\IBM\WebSphere\AST\uninstall\java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\IBM\WFO3\devkit\java32" version="1.5.0">
+<bootpath>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\vm.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\core.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\charsets.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\graphics.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\security.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmorb.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmcfw.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\server.jar"/>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\IBM\WFO3\devkit\java32\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jdk1.7.0_05" version="1.7.0_05">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.7.0_05\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\IBM\SQLLIB\java\jdk" version="1.6.0">
+<bootpath>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\vm.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\annotation.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\beans.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\java.util.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\jndi.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\logging.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\security.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\sql.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmorb.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmcfw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmcertpathfw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmjgssfw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmjssefw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmsaslfw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ibmxmlcrypto.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\management-agent.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\xml.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\jlm.jar"/>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\javascript.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\IBM\SQLLIB\java\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java" version="1.5.0">
+<bootpath>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\vm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\core.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\graphics.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\security.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmorb.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmcfw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmjaaslm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\server.jar"/>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\IBM\WebSphere\AST\runtimes\base_v61_stub\java\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+</libraryInfos>

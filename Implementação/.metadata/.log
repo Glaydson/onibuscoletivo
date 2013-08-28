@@ -1,0 +1,70 @@
+!SESSION 2013-04-15 16:20:56.975 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_43
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.926
+!MESSAGE System property http.proxyHost is not set but should be cache.bc.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.941
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.941
+!MESSAGE System property https.proxyHost is not set but should be cache.bc.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.941
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.941
+!MESSAGE System property https.proxyHost is not set but should be cache.bc.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-15 16:22:17.941
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.jface 2 0 2013-04-15 16:22:19.127
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-15 16:22:19.127
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1325aef,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@f007ad,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.RemoveAction,Remove,
+		Remove selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.MakeHandlersGo@8822a0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2013-04-15 16:22:38.425
+!MESSAGE SVN: 'org.eclipse.team.svn.core.discovery.model.RemoteBundleDiscoveryStrategy$DownloadBundleJob' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2013-04-15 16:22:38.425
+!MESSAGE SVN: 'org.eclipse.team.svn.core.discovery.model.RemoteBundleDiscoveryStrategy$DownloadBundleJob' operation finished with error: Cannot download bundle at http://community.polarion.com/projects/subversive/download/eclipse/3.0/discovery/org.eclipse.team.svn.discovery_1.0.0.I20130122-1700.jar
+!STACK 0
+java.lang.Exception: Cannot download bundle at http://community.polarion.com/projects/subversive/download/eclipse/3.0/discovery/org.eclipse.team.svn.discovery_1.0.0.I20130122-1700.jar
+	at org.eclipse.team.svn.core.discovery.model.RemoteBundleDiscoveryStrategy$DownloadBundleJob.exec(RemoteBundleDiscoveryStrategy.java:159)
+	at org.eclipse.team.svn.core.discovery.model.RemoteBundleDiscoveryStrategy.performDiscovery(RemoteBundleDiscoveryStrategy.java:88)
+	at org.eclipse.team.svn.core.discovery.model.ConnectorDiscovery.performDiscovery(ConnectorDiscovery.java:108)
+	at org.eclipse.team.svn.ui.discovery.wizards.ConnectorDiscoveryWizardMainPage$16.run(ConnectorDiscoveryWizardMainPage.java:1172)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: java.io.IOException: Cannot download http://community.polarion.com/projects/subversive/download/eclipse/3.0/discovery/org.eclipse.team.svn.discovery_1.0.0.I20130122-1700.jar: HTTP response 403
+	at org.eclipse.team.svn.core.discovery.util.WebUtil.downloadResource(WebUtil.java:86)
+	at org.eclipse.team.svn.core.discovery.model.RemoteBundleDiscoveryStrategy$DownloadBundleJob.exec(RemoteBundleDiscoveryStrategy.java:149)
+	... 4 more

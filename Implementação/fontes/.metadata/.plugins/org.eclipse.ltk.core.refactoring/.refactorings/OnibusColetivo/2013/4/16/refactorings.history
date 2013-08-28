@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;OnibusColetivo/WebContent/onibus.html&apos; to &apos;principal.html&apos;" description="Rename resource &apos;onibus.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/onibus.html" name="principal.html" stamp="1366056948515" updateReferences="true"/>
+</session>

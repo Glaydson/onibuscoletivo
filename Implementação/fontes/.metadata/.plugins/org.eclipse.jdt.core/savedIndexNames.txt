@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Educação\Christus\2013.1\APIS\Projeto Final\Onibus Coletivo\Implementação\fontes\.metadata\.plugins\org.eclipse.jdt.core
+1756477623.index
+967338187.index
